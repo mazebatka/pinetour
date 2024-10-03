@@ -1,0 +1,11 @@
+#destinations-list-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+     margin-top: 10px;
+    width: Hug (303px)px;
+    height: Hug (559px)px;
+    gap: 20px;
+    opacity: 0px;
+}
