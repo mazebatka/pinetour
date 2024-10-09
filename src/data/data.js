@@ -6,3 +6,5 @@ export const destinations = [
   { id: "D5", title: "Amarbaysgalant monastery", location: "Bulgan" },
   { id: "D6", title: "Sukhbaatar square", location: "Ulaanbator" },
 ];
+export const starter = ["Trip", "Hotel", "Breakfast", "Lunch", "Dinner"];
+export const luxury = ["Starter Pack", "Flights", "Cruise trip", "Cruise trip"];

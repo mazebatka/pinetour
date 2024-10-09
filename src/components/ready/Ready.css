@@ -1,0 +1,30 @@
+#ready-container{
+    margin-top: 150px;
+    background-color: #171717;
+    height: 393px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ready-textbutton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1280px;
+}
+#ready-textbutton h1{
+    font-size: 32px;
+    color: #FFFFFF;
+}
+#ready-textbutton button{
+    font-size: 16px;
+    font-weight: 700;
+    width: 130px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: #18BA51;
+    color: #FFFFFF;
+}
+#ready-textbutton button:hover{
+    cursor: pointer;
+}

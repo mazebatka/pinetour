@@ -1,15 +1,15 @@
 import React from "react";
-import { Header, Hero } from "./components";
-import { Main } from "./components/destination-section/Main";
+import { Header, Hero, Main, Pricing, Ready, Footer } from "./components";
 
 export const App = () => {
   return (
     <div>
       <Header />
       <Hero />
-      <div style={{ display: "flex", justifyContent: "center", marginTop: 5 }}>
-        <Main />
-      </div>
+      <Main />
+      <Pricing />
+      <Ready />
+      <Footer />
     </div>
   );
 };

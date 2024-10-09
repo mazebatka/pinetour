@@ -3,7 +3,7 @@ import "./Hero.css";
 export const Hero = () => {
   return (
     <div id="hero-section">
-      <div id="texts">
+      <div id="hero-texts">
         <h1>Khuvsgul Lake</h1>
         <h4>TRIP</h4>
       </div>
