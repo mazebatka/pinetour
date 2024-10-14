@@ -6,7 +6,7 @@ height: Hug (845px)px;
 top: 1045px;
 left: 120px;
 gap: 150px;
-opacity: 0px;
+
 
 }
 
@@ -16,13 +16,13 @@ flex-direction: column;
 width:  408px;
 height: 800px;
 gap:80px;
-opacity: 0px;
+
 }
 #texts{
 width: 370px;
 height: 157px;
 gap: 0px;
-opacity: 0px;
+
 text-align: left;
 }
 #texts h1{
@@ -54,6 +54,6 @@ width: 692px;
 height: 845px;
 left: 508px;
 gap: 0px;
-opacity: 0px;
+
 
 }
