@@ -11,5 +11,6 @@ export const App = () => {
       <Ready />
       <Footer />
     </div>
+    //just a comment
   );
 };
